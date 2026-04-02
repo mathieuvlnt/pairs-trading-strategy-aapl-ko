@@ -1,7 +1,7 @@
 # Pairs Trading Strategy: AAPL vs KO
 
 ## Overview
-This project implements a pairs trading strategy using 15 years of monthly data.
+This project implements a pairs trading strategy using 15 years of monthly data. This project was completed as part of a Financial Econometrics course.
 
 ## Objective
 To test whether the spread between AAPL and KO is mean-reverting and can be exploited to generate trading profits.
