@@ -6,6 +6,13 @@ This project implements a pairs trading strategy using 15 years of monthly data.
 ## Objective
 To test whether the spread between AAPL and KO is mean-reverting and can be exploited to generate trading profits.
 
+## Key Takeaways
+- The spread is not mean-reverting
+- The strategy generates no reliable signals
+- Transaction costs reduce performance
+
+This project highlights the importance of statistical assumptions in trading strategies.
+
 ## Methodology
 - Log-price spread construction
 - Autocorrelation analysis (ACF)
